@@ -1,0 +1,100 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "imgs/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "imgs/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "imgs/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "imgs/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "imgs/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "imgs/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "imgs/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "imgs/portfolio-img8.jpg"
+        }
+    ] ,
+    "socials" : [
+        {
+            "id": 1,
+            "icon" : "fa-brands fa-facebook",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "fa-brands fa-twitter",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "fa-brands fa-pinterest",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] ,
+    "skills": [
+        {
+            "id": 1,
+            "title": "Bootsrap",
+            "prec": "100%",
+            "sp": "sp1"
+
+        },
+        {
+            "id": 2,
+            "title": "CSS3",
+            "prec": "90%",
+            "sp": "sp2"
+
+        },
+        {
+            "id": 3,
+            "title": "Photoshop",
+            "prec": "80%",
+            "sp": "sp3"
+
+        }
+    ]
+}
